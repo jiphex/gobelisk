@@ -1,7 +1,7 @@
 package action
 
 import (
-	"gobelisk/protocol"
+	"github.com/joaopetreli/gobelisk/protocol"
 	"testing"
 )
 

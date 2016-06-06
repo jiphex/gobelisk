@@ -3,8 +3,8 @@ package manager
 import (
 	"bufio"
 	"fmt"
-	"gobelisk/protocol/action"
-	"gobelisk/protocol/event"
+	"github.com/joaopetreli/gobelisk/protocol/action"
+	"github.com/joaopetreli/gobelisk/protocol/event"
 	"net"
 )
 

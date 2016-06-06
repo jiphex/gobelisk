@@ -2,7 +2,7 @@ package action
 
 import (
 	"fmt"
-	"gobelisk/protocol"
+	"github.com/joaopetreli/gobelisk/protocol"
 	"strings"
 )
 

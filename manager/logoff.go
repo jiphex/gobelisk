@@ -3,7 +3,7 @@ package manager
 import (
 	"bufio"
 	"fmt"
-	"gobelisk/protocol/action"
+	"github.com/joaopetreli/gobelisk/protocol/action"
 	"net"
 )
 
